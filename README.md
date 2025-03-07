@@ -1,8 +1,9 @@
 # Orchestrating LLM-Based Agents for Flexible LVS Error Debugging in VLSI Physical Design
 LLM-based agent framework for automating the process from LVS checking to error debugging in a flexible manner, leveraging both the adaptability and other capabilities of LLM.
 
-This library is made up of modified layouts of the FreePDK45 standard cells, incorporating LVS errors such as TextOpen, UnusedText, PortSwap, and Unexpected errors.
+This library is made up of modified layouts of the [FreePDK45](https://eda.ncsu.edu/freepdk/freepdk45/)  standard cells, incorporating LVS errors such as TextOpen, UnusedText, PortSwap, and Unexpected errors.
 
+[Extended Libraries](https://your-link-here.com)
 ## Dataset Description
 - All file structures follow the architecture of FreePDK45.
 
