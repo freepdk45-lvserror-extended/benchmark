@@ -3,7 +3,6 @@ LLM-based agent framework for automating the process from LVS checking to error 
 
 This library is made up of modified layouts of the [FreePDK45](https://eda.ncsu.edu/freepdk/freepdk45/)  standard cells, incorporating LVS errors such as TextOpen, UnusedText, PortSwap, and Unexpected errors.
 
-[Extended Libraries](https://your-link-here.com)
 ## Dataset Description
 - All file structures follow the architecture of FreePDK45.
 
