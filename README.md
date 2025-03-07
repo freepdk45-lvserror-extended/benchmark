@@ -5,7 +5,9 @@ This library is made up of modified layouts of the FreePDK45 standard cells, inc
 
 ## Dataset Description
 All file structures follow the architecture of FreePDK45.
+
 The extended libraries are contained at benchmark/freepdk45-v14-extended/ncsu-FreePDK45-1.4-extended/FreePDK45/osu_soc/lib.
+
 (freepdk45_cells_LVSFail_TextOpen, freepdk45_cells_LVSFail_UnusedText, freepdk45_cells_LVSFail_PortSwapError, freepdk45_cells_LVSFail_Unexpected)
 
 
