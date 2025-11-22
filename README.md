@@ -1,7 +1,7 @@
 # Automating LVS Fixing with Neuro-Symbolic Approach
 A system combining a symbolic sub-system implemented as a tailored multi-agent framework and a neural sub-system based on an LLM.
 
-This library is made up of modified layouts of the [FreePDK45](https://eda.ncsu.edu/freepdk/freepdk45/)  standard cells, incorporating multiple LVS errors such as Property, PortSwap, UnunsedText, TextShort, and TextOpen errors.
+This library is made up of modified layouts of the [FreePDK45](https://eda.ncsu.edu/freepdk/freepdk45/) standard cells, incorporating multiple LVS errors such as Property, PortSwap, UnunsedText, TextShort, and TextOpen errors.
 
 
 ## Dataset Description
