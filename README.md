@@ -7,7 +7,7 @@ This library is made up of modified layouts of the [FreePDK45](https://eda.ncsu.
 ## Dataset Description
 - All file structures follow the architecture of FreePDK45. 
 
-- The extended library is contained at benchmark/freepdk45-v14-extended/ncsu-FreePDK45-1.4-extended/FreePDK45/osu_soc/lib.
+- The extended library is contained at benchmark/freepdk45-v14-extended/FreePDK45-1.4-extended/osu_soc/lib.
 (freepdk45_cells_with_LVS_errors)
 
 
