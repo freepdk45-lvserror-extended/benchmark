@@ -1,5 +1,5 @@
-# Automating LVS Fixing with Neuro-Symbolic Approach
-A system combining a symbolic sub-system implemented as a tailored multi-agent framework and a neural sub-system based on an LLM.
+# Multi-Agent System for Autonomous LVS Debugging
+A multi-agent system where large language model (LLM) agents reason over schematic and layout netlists as well as LVS results to provide implicit rewards for layout modifications and guide iterative LVS debugging.
 
 This library is made up of modified layouts of the [FreePDK45](https://eda.ncsu.edu/freepdk/freepdk45/) standard cells, incorporating multiple LVS errors such as Property, PortSwap, UnunsedText, TextShort, and TextOpen errors.
 
